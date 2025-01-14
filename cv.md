@@ -5,7 +5,10 @@
 * E-mail: [Skorokhodd@yandex.ru](mailto:skorokhodd@yandex.ru)
 
 # About Me
->I am 29 years old, I work as an engineer in a government agency. I fell in love with development for its combination of mathematical precision and creative approach. I really need an activity where I can develop throughout my life and become a professional in my field, working together with motivated and smart people
+>I am 30 years old, I work as an engineer in a government agency. I fell in
+            love with development for its combination of mathematical precision and creative approach. I really need
+            an activity where I can develop throughout my life and become a professional in my field,
+            working together with motivated and smart people.
 
 ### Soft skills:
 - [X] High efficiency; 
@@ -15,29 +18,23 @@
 
 # Skills
 * HTML, Markdown
-* CSS (BEM)
-* JavaScript (Fundamentals)
+* CSS (BEM methodology + SASS)
+* Gulp
 * Git/GitHub
+* JavaScript
+* React + Redux (basics)
 
-# Code Examples
 
-```javascript
-function toCamelCase(str){
-  let newStr = str.replace(/_/g, '-');
-  let arr = newStr.split('-');
-  for (let i=1; i<arr.length; i++) {
-    arr[i] = arr[i][0].toUpperCase() + arr[i].slice(1);
-  }
-  return arr.join('');
-}
-```
+# Last commercial order
+
+* [website for a catholic church](https://katlurd.ru/)
 
 # Education
 * **HTML Academy** 
-  * HTML and CSS: Professional website layout
-  * HTML and CSS: Adaptive layout and automation (in process)
-* **Hexlet**
-  * Introduction to Git, Introduction to Programming, Command Line Basics (free courses)
+  * HTML Academy: Professional website coding
+  * HTML Academy: Adaptive website coding and Automation
+  * HTML Academy: HTML Academy: JavaScript. Professional Development of Web Interfaces
+  * HTML Academy: Internship in the "Liga A" agency
 
 # Languages
 * **Russian** - native speaker
